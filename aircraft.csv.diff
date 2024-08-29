@@ -1,5 +1,5 @@
 --- aircraft.csv.orig   2024-08-19 04:45:31.435783456 +0000
-+++ aircraft.csv        2024-08-21 01:50:49.438963730 +0000
++++ aircraft.csv        2024-08-29 07:24:31.205958928 +0000
 @@ -546149,13 +546149,13 @@
  AE0115;97-5304;C30J;10;Lockheed Martin WC-130J Weatherbird;;;
  AE0116;97-5305;C30J;10;Lockheed Martin WC-130J Weatherbird;;;
@@ -654,3 +654,12 @@
  AE6471;17-5897;C30J;10;Lockheed Martin C-130J-30 Hercules;;;
  AE6472;17-5898;C30J;10;Lockheed Martin HC-130J Combat King II;;;
  AE6473;17-5900;C30J;10;Lockheed Martin C-130J-30 Hercules;;;
+@@ -555130,7 +555130,7 @@
+ AE77DB;23-21270;H60;10;SIKORSKY UH-60 Black Hawk;;;
+ AE77DC;23-21271;H60;10;SIKORSKY UH-60 Black Hawk;;;
+ AE77F8;21-14512;H60;10;SIKORSKY UH-60 Black Hawk;;;
+-AE77F9;21-14513;H60;10;SIKORSKY UH-60 Black Hawk;;;
++AE77F9;21-14513;H60;10;Sikorsky HH-60W Jolly Green II;;;
+ AE77FA;21-14514;H60;10;SIKORSKY UH-60 Black Hawk;;;
+ AE77FB;21-14515;H60;10;SIKORSKY UH-60 Black Hawk;;;
+ AE77FC;21-14516;H60;10;SIKORSKY UH-60 Black Hawk;;;
