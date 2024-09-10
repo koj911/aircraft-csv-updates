@@ -1,5 +1,5 @@
 --- aircraft.csv.orig   2024-08-19 04:45:31.435783456 +0000
-+++ aircraft.csv        2024-09-06 02:16:00.544045225 +0000
++++ aircraft.csv        2024-09-10 11:04:31.960345686 +0000
 @@ -546149,13 +546149,13 @@
  AE0115;97-5304;C30J;10;Lockheed Martin WC-130J Weatherbird;;;
  AE0116;97-5305;C30J;10;Lockheed Martin WC-130J Weatherbird;;;
@@ -483,6 +483,15 @@
  AE593E;168779;H53S;10;SIKORSKY CH-53 Super Stallion;;;
  AE593F;168780;H53S;10;SIKORSKY CH-53 Super Stallion;;;
  AE5940;168781;H53S;10;SIKORSKY CH-53 Super Stallion;;;
+@@ -552417,7 +552417,7 @@
+ AE5967;14-5805;C30J;10;Lockheed Martin MC-130J Commando II;;;
+ AE5968;14-5809;C30J;10;Lockheed Martin AC-130J Ghostrider;;;
+ AE5969;14-5787;C30J;10;Lockheed Martin AC-130J Ghostrider;;;
+-AE596A;14-5793;C30J;10;Lockheed Martin MC-130J Commando II;;;
++AE596A;14-5793;C30J;10;Lockheed Martin HC-130J Hercules;;;
+ AE596B;14-5797;C30J;10;Lockheed Martin MC-130J Commando II;;;
+ AE596C;14-5803;C30J;10;Lockheed Martin AC-130J Ghostrider;;;
+ AE596D;13-5782;C30J;10;Lockheed Martin HC-130J Combat King II;;;
 @@ -552677,19 +552677,19 @@
  AE5A96;18-72426;EC45;10;Airbus Helicopters UH-72A Lakota;;;
  AE5A97;18-72427;EC45;10;Airbus Helicopters UH-72A Lakota;;;
