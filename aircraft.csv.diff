@@ -1,5 +1,5 @@
 --- aircraft.csv.orig   2024-08-19 04:45:31.435783456 +0000
-+++ aircraft.csv        2024-09-10 11:04:31.960345686 +0000
++++ aircraft.csv        2024-09-30 04:28:47.329207747 +0000
 @@ -546149,13 +546149,13 @@
  AE0115;97-5304;C30J;10;Lockheed Martin WC-130J Weatherbird;;;
  AE0116;97-5305;C30J;10;Lockheed Martin WC-130J Weatherbird;;;
@@ -158,6 +158,17 @@
  AE143C;99-26841;H60;10;SIKORSKY UH-60 Black Hawk;;;
  AE143D;05-1435;C30J;10;Lockheed Martin C-130J-30 Hercules;;;
  AE143E;05-1436;C30J;10;Lockheed Martin C-130J-30 Hercules;;;
+@@ -548662,8 +548662,8 @@
+ AE1471;07-7179;C17;10;Boeing C-17A Globemaster III;;;
+ AE1472;07-7180;C17;10;Boeing C-17A Globemaster III;;;
+ AE1477;160978;BE9L;10;BEECH 90 King Air;;;
+-AE1478;166766;C560;10;CESSNA 560 Citation Ultra;;;
+-AE1479;166767;C560;10;CESSNA 560 Citation Ultra;;;
++AE1478;166766;C560;10;Cessna UC-35D Citation V;;;
++AE1479;166767;C560;10;Cessna UC-35D Citation V;;;
+ AE147A;166693;B737;10;Boeing C-40A Clipper;;;
+ AE147E;73-22133;UH1;10;BELL UH-1 Huey;;;
+ AE147F;166762;C30J;10;Lockheed Martin KC-130J Hercules;;;
 @@ -550743,10 +550743,10 @@
  AE4A52;09-03786;H47;10;BOEING-VERTOL CH-47 Chinook;;;
  AE4A53;09-03787;H47;10;BOEING-VERTOL CH-47 Chinook;;;
